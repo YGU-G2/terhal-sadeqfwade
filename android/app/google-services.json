@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32761491505",
+    "project_id": "terhal-app-ygu-2",
+    "storage_bucket": "terhal-app-ygu-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32761491505:android:a955b5d3e3ff30d095e510",
+        "android_client_info": {
+          "package_name": "com.example.terhal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPU9IX4ACLbII5czab5vJmkGN67zo0FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
